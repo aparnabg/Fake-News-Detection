@@ -51,4 +51,4 @@ Then added Dropout layers and compared accuracy.
 
 ## Results
 
-The LSTM model with dropout layers shows improved performance in detecting fake news. Key results include:
+The LSTM model with dropout layers shows improved performance in detecting fake news. 
